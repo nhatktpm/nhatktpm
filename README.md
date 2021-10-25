@@ -25,6 +25,6 @@ Description: A system for user to revise the Toeic test for free and help the ad
 
 ## Besides, I also have done some personal project.
 - ⌛ Design pattern: [DI, Singleton, Proxy....](https://github.com/nhatktpm/design-pattern) 
-- 📡 Authentication and Authorization using JWT:[Check here](https://github.com/nhatktpm/design-pattern)
+- 📡 Authentication and Authorization using JWT:[Check here](https://github.com/nhatktpm/NodeJs-jwt-authentication)
 - 🌍 React Covid Tracker: [demo](https://reactjs-covid-tracker.vercel.app/)
 - 🎯 Social network: [Spring boot and ReactJS](https://github.com/nhatktpm/social-spring-boot-api)
