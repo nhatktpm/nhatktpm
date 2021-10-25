@@ -1,8 +1,8 @@
 
 # Hello😄, I'm Nguyen Truong Nhat
 ### Glad to see you here!
-- 🔭 I’m Nguyen Truong Nhat (Sun Nguyen). I'm a Software Engineer
-- 🌱 I’m a final year student at Cantho University of Technology, I am majoring in software engineering
+- 🔭 I’m Nguyen Truong Nhat (Sun Nguyen). I'm a Software Engineer.
+- 🌱 I’m a final year student at Cantho University of Technology, I am majoring in software engineering.
 ### Here’s a list of my skills!
 
 - NodeJs
